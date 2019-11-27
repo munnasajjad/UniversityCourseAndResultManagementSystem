@@ -1,0 +1,128 @@
+﻿@using UniversityManagementSystemWebApp.Models
+@model StudentResult
+@{
+    ViewBag.Title = "View Result";
+    List<Student> studentInfo = ViewBag.StudentInfo;
+    var isResultExist = ViewBag.IsResultExist;
+    string message = ViewBag.Message;
+}
+
+<h2>View Result</h2>
+<div class="table-container">
+
+    @using (Html.BeginForm("ResultSheet","Student"))
+    {
+        <table>
+            <tr>
+                <td>@Html.LabelFor(x => x.StudentId)</td>
+                <td>
+                    @Html.DropDownListFor(x => x.StudentId, new SelectList(studentInfo, "Id", "RegistrationNumber"), "---Select registration number---", (new { @class = "table-container" }))
+                    @Html.ValidationMessageFor(x => x.StudentId)
+                </td>
+            </tr>
+            <tr>
+                <td><label for="Name">Name</label></td>
+                <td><input id="Name" name="Name" type="text" readonly="readonly" /></td>
+            </tr>
+
+            <tr>
+                <td><label for="Email">Email</label></td>
+                <td><input id="Email" name="Email" type="text" readonly="readonly" /></td>
+            </tr>
+
+            <tr>
+                <td><label for="Department">Department</label></td>
+                <td><input id="Department" name="Department" type="text" class="Adjust" readonly="readonly" /></td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td><input id="submit" type="submit" value="Make PDF" class="btn-success" /></td>
+            </tr>
+        </table>
+    }
+</div>
+
+<div class="table-container-dataResult">
+    <table class="table table-condensed table-hover" id="Departments">
+        <thead>
+            <tr>
+                <td>Course Code</td>
+                <td>Name</td>
+                <td>Grade</td>
+            </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+    </table>
+</div>
+
+@if (message != null)
+{
+    if (isResultExist)
+    {
+        <div style="text-align: center; color: red">
+            <h6>@message</h6>
+        </div>
+    }
+    else
+    {
+        <div style="text-align: center; color: forestgreen">
+            <h6>@message</h6>
+        </div>
+    }
+}
+
+@section scripts{
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+    <script>
+        $(function() {
+
+            //$('.input_starttime').clockpicker({
+            //    placement: 'top',
+            //    align: 'left',
+            //    donetext: 'Done'
+            //});
+
+            $('#StudentId').on('change', function() {
+                var stuId = $('#StudentId').val();
+                var json =
+                {
+                    studentId: stuId
+                };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetStudentInfoByStudentId", "Course")',
+                    contentType: 'application/json',
+                    data: JSON.stringify(json),
+                    success: function(response) {
+                        $('#Name').val(response.Name);
+                        $('#Email').val(response.Email);
+                    }
+                });
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetDepartmentByStudentId", "Course")',
+                    contentType: 'application/json',
+                    data: JSON.stringify(json),
+                    success: function(response) {
+                        $('#Department').val(response.Name);
+                    }
+                });
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetStudentResultByStudentId", "Student")',
+                    contentType: 'application/json',
+                    data: JSON.stringify(json),
+                    success: function(response) {
+                        $('#tableBody').empty();
+                        $.each(response, function(key, value) {
+                            $('#tableBody').append('<tr><td>' + value.CourseCode + '</td><td>' + value.CourseTitle + '</td><td>' + value.GradeLatter + '</td></tr>');
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+}

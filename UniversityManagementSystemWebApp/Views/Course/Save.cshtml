@@ -1,0 +1,93 @@
+﻿@using System.Web.UI.WebControls
+@using UniversityManagementSystemWebApp.Models
+@model UniversityManagementSystemWebApp.Models.Course
+
+@{
+    ViewBag.Title = "Save Course";
+    string message = ViewBag.Message;
+    List<Semester> semesters = ViewBag.Semesters;
+    List<Department> departments = ViewBag.Departments;
+    var isCourseExist = ViewBag.IsCourseExist;
+}
+
+<h2>Save Course</h2>
+<div class="table-container">
+    @using (Html.BeginForm(null, "Course", FormMethod.Post, new { id = "saveCourseFrom" }))
+    {
+        <table>
+            <tr>
+                <td>@Html.LabelFor(x => x.Code)</td>
+                <td>
+                    @Html.TextBoxFor(x => x.Code, new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.Code)
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.Name)</td>
+                <td>
+                    @Html.TextBoxFor(x => x.Name, new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.Name)
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.Credit)</td>
+                <td>
+                    @Html.TextBoxFor(x => x.Credit, new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.Credit)
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.Description)</td>
+                <td>
+                    @Html.TextAreaFor(x => x.Description, new { @class = "table-container" })
+                    @*@Html.ValidationMessageFor(x => x.Description)*@
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.DepartmentId)</td>
+                <td>
+                    @Html.DropDownListFor(x => x.DepartmentId, new SelectList(departments, "Id", "Name"),"---Select department---", new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.DepartmentId)
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.SemesterId)</td>
+                <td>
+                    @Html.DropDownListFor(x => x.SemesterId, new SelectList(semesters, "Id", "Name"), "---Select semester---", new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.SemesterId)
+                </td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Save" /></td>
+            </tr>
+        </table>
+    }
+</div>
+@if (message != null)
+{
+    if (isCourseExist)
+    {
+        <div style="text-align: center; color: red">
+            <h6>@message</h6>
+        </div>
+    }
+    else
+    {
+        <div style="text-align: center; color: forestgreen">
+            <h6>@message</h6>
+        </div>
+    }
+}
+
+@section scripts{
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+}
+

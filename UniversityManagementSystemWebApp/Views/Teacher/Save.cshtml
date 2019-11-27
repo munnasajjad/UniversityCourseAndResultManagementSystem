@@ -1,0 +1,107 @@
+﻿@using UniversityManagementSystemWebApp.Models
+@model UniversityManagementSystemWebApp.Models.Teacher
+@{
+    ViewBag.Title = "Save teacher";
+    string message = ViewBag.Message;
+    var isTeacherExist = ViewBag.IsTeacherExist;
+    List<Department> departments = ViewBag.Departments;
+    List<Designation> designations = ViewBag.Designations;
+    
+
+}
+
+<h2>Save Teacher</h2>
+<div class="table-container">
+
+    @using (Html.BeginForm(null, "Teacher", FormMethod.Post, new { id = "saveTeacherFrom" }))
+    {
+        <table>
+            <tr>
+                <td>@Html.LabelFor(x => x.Name)</td>
+                <td>
+                    @Html.TextBoxFor(x => x.Name, new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.Name)
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.Address)</td>
+                <td>
+                    @Html.TextAreaFor(x => x.Address, new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.Address)
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.Email)</td>
+                <td>
+                    @Html.TextBoxFor(x => x.Email, new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.Email)
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.ContactNo)</td>
+                <td>
+                    @Html.TextBoxFor(x => x.ContactNo, new {@class = "table-container"})
+                    @Html.ValidationMessageFor(x => x.ContactNo)
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.DesignationId)</td>
+                <td>
+                    @Html.DropDownListFor(x => x.DesignationId, new SelectList(designations, "Id", "Title"), "---Select designation---", new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.DesignationId)
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.DepartmentId)</td>
+                <td>
+                    @Html.DropDownListFor(x => x.DepartmentId, new SelectList(departments, "Id", "Name"),"---Select department---", new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.DepartmentId)
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.CreditTaken)</td>
+                <td>
+                    @Html.TextBoxFor(x => x.CreditTaken, new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.CreditTaken)
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Save" /></td>
+            </tr>
+        </table>
+    }
+</div>
+
+@if (message != null)
+{
+    if (isTeacherExist)
+    {
+        <div style="text-align: center; color: red">
+            <h6>@message</h6>
+        </div>
+    }
+    else
+    {
+        <div style="text-align: center; color: forestgreen">
+            <h6>@message</h6>
+        </div>
+    }
+}
+
+@section scripts{
+    <script src="~/Scripts/jquery-1.11.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+}
+
+
+
+
+

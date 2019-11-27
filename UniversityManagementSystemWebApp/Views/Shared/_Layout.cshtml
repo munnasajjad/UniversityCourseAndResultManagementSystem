@@ -1,0 +1,168 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>@ViewBag.Title - University Management System</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @RenderSection("styles", required: false)
+
+</head>
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">
+
+                    <img src="~/Content/Images/logo.jpg" />
+
+                </a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+
+                    <li class="active">@Html.ActionLink("Home", "Index", "Home")</li>
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            Department
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Save Department", "Save", "Department")</li>
+                            <li>@Html.ActionLink("View Departments", "ViewAllDepartment", "Department")</li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            Course
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Save Course", "Save", "Course")</li>
+                            <li>@Html.ActionLink("Assign Courses", "AssignCourse", "AssignCourse")</li>
+                            <li>@Html.ActionLink("Enroll Courses", "EnrollCourse", "Course")</li>
+                            <li>@Html.ActionLink("Course Statics", "CourseStatistics", "CourseStatistics")</li>
+                            <li>@Html.ActionLink("Unassign Courses", "UnAssignCourses", "AssignCourse")</li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            Teacher
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Save Teacher", "Save", "Teacher")</li>
+                            @*<li>@Html.ActionLink("Assign Courses", "AssignCourse", "AssignCourse")</li>*@
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            Student
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Register Student", "SaveStudent", "Student")</li>
+                            @*<li>@Html.ActionLink("Enroll Courses", "EnrollCourse", "Course")</li>*@
+                            <li>@Html.ActionLink("Save Result", "StudentResult", "Student")</li>
+                            <li>@Html.ActionLink("View Result", "ViewResult", "Student")</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            Manage Rooms
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Allocate Class Room", "AllocateClassRoom", "AllocateClassRoom")</li>
+                            <li>@Html.ActionLink("Class Schedule & Room Allocation Information", "ViewClassRoomAllocation", "AllocateClassRoom")</li>
+                            <li>@Html.ActionLink("Unallocate Classrooms", "UnallocateClassRoom", "AllocateClassRoom")</li>
+                        </ul>
+                    </li>
+
+                    @*<li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                Save & Register
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Save Department", "Save", "Department")</li>
+                                <li>@Html.ActionLink("Save Course", "Save", "Course")</li>
+                                <li>@Html.ActionLink("Save Teacher", "Save", "Teacher")</li>
+                                <li>@Html.ActionLink("Register Student", "SaveStudent", "Student")</li>
+                                <li>@Html.ActionLink("Save Result", "StudentResult", "Student")</li>
+                            </ul>
+                        </li>*@
+
+                    @*<li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            Course Assignment & Room Allocation
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Assign Courses", "AssignCourse", "AssignCourse")</li>
+                            <li>@Html.ActionLink("Enroll Courses", "EnrollCourse", "Course")</li>
+                            <li>@Html.ActionLink("Allocate Class Room", "AllocateClassRoom", "AllocateClassRoom")</li>
+                        </ul>
+                    </li>
+
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            View
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Departments", "ViewAllDepartment", "Department")</li>
+                            <li>@Html.ActionLink("Course Statics", "CourseStatistics", "CourseStatistics")</li>
+                            <li>@Html.ActionLink("Class Schedule & Room Allocation Information", "ViewClassRoomAllocation", "AllocateClassRoom")</li>
+                            <li>@Html.ActionLink("Result", "ViewResult", "Student")</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            Others
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Unassign Courses", "UnAssignCourses", "AssignCourse")</li>
+                            <li>@Html.ActionLink("Unallocate Classrooms", "UnallocateClassRoom", "AllocateClassRoom")</li>
+                        </ul>
+                    </li>*@
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <div class="container"></div>
+        <div class="footer">
+            <footer>
+                <h5>&copy; @DateTime.Now.Year - University Management System</h5>
+            </footer>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    @RenderSection("scriptsForClear", required: false)
+</body>
+</html>

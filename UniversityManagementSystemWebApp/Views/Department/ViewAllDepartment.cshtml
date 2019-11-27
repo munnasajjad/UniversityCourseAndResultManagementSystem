@@ -1,0 +1,24 @@
+﻿@using UniversityManagementSystemWebApp.Models
+
+@{
+    ViewBag.Title = "View All Department";
+    List<Department> departments = ViewBag.Departments;
+}
+
+<h2>All Departments</h2>
+
+<div class="table-container-data">
+    <table class="table table-bordered table-responsive table-striped"id="Departments">
+        <tr>
+            <th>Code</th>
+            <th>Name</th>
+        </tr>
+        @foreach (Department department in departments)
+        {
+            <tr>
+                <td>@department.Code</td>
+                <td>@department.Name</td>
+            </tr>
+        }
+    </table>
+</div>

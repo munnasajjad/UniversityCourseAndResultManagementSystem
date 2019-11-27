@@ -1,0 +1,147 @@
+﻿@using UniversityManagementSystemWebApp.Models
+@model AllocateClassRoom
+@{
+    ViewBag.Title = "AllocateClassRoom";
+    string message = ViewBag.Message;
+    //bool isClassRoomAllocated = ViewBag.IsClassRoomAllocated;
+    List<Department> departments = ViewBag.Departments;
+    List<Room> rooms = ViewBag.Rooms;
+    List<Day> days = ViewBag.Days;
+}
+@section styles{
+
+    <link href="~/Content/bootstrap-clockpicker.css" rel="stylesheet" />
+    <link href="~/Content/jquery-clockpicker.css" rel="stylesheet" />
+
+}
+
+
+<h2>Allocate Class Room</h2>
+
+<div class="table-container">
+
+    @using (Html.BeginForm())
+    {
+        <table>
+            <tr>
+                <td>@Html.LabelFor(x => x.DepartmentId)</td>
+                <td>
+                    @Html.DropDownListFor(x => x.DepartmentId, new SelectList(departments, "Id", "Name"), "---Select department---", (new { @class = "table-container" }))
+                    @Html.ValidationMessageFor(x => x.DepartmentId)
+                </td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(x => x.CourseId)</td>
+                <td>
+                    @Html.DropDownListFor(x => x.CourseId, new SelectList(""), "---Select Course---", new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.CourseId)
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.RoomId)</td>
+                <td>
+                    @Html.DropDownListFor(x => x.RoomId, new SelectList(rooms, "Id", "RoomNumber"), "---Select room---", new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.RoomId)
+                </td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(x => x.DayId)</td>
+                <td>
+                    @Html.DropDownListFor(x => x.DayId, new SelectList(days, "Id", "DayName"), "---Select day---", new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.DayId)
+                </td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(x => x.FromTime)</td>
+                <td>
+                    @Html.TextBoxFor(x => x.FromTime, new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.FromTime)
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.ToTime)</td>
+                <td>
+                    @Html.TextBoxFor(x => x.ToTime, new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.ToTime)
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input id="submit" type="submit" value="Allocate" class="btn-success" /></td>
+            </tr>
+        </table>
+    }
+</div>
+
+@if (message != null)
+{
+    if (message.Contains("Allocated"))
+    {
+        <div style="text-align: center; color: forestgreen">
+            <h6>@message</h6>
+        </div>
+    }
+    else
+    {
+
+        <div style="text-align: center; color: red">
+            <h6>@message</h6>
+        </div>
+    }
+}
+
+@section scripts{
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/jquery-clockpicker.js"></script>
+    <script src="~/Scripts/bootstrap-clockpicker.js"></script>
+
+    <script>
+        $(function () {
+
+            $('#DepartmentId').on('change', function () {
+                var deptId = $('#DepartmentId').val();
+                var json =
+                {
+                    departmentId: deptId
+                };
+                $('#CourseId').empty();
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetAllCoursesByDepartmentId", "AllocateClassRoom")',
+                    contentType: 'application/json',
+                    data: JSON.stringify(json),
+                    success: function (response) {
+                        $('#CourseId').empty();
+                        $('#CourseId').append('<option value="">---Select course---</option>');
+                        $.each(response, function (key, value) {
+                            $('#CourseId').append('<option value="' + value.Id + '">' + value.Name + '</option>');
+                        });
+                    }
+                });
+            });
+            $('#FromTime').clockpicker({
+                donetext: 'Done',
+                placement: 'bottom',
+                align: 'left',
+                autoclose: true,
+                'default': 'now',
+                twelvehour: true
+
+            });
+
+            $('#ToTime').clockpicker({
+                autoclose: true,
+                placement: 'bottom',
+                align: 'left',
+                donetext: 'Done',
+                twelvehour: true
+            });
+        });
+    </script>
+}
+
+
+

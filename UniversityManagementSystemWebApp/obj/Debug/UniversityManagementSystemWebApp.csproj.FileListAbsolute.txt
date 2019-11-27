@@ -1,0 +1,938 @@
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+H:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+J:\Project\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\Projects\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+I:\Project\Update 1\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+E:\SEIP.NET\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+E:\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+G:\Project\Updated\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 2\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\Updated 3\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Rotativa.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+E:\DotNet\Batch 01\Class Files\March\Own\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Rotativa.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\Projects\New folder\Update 4\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Rotativa.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+E:\VS\UniversityManagementSystem\Update 5\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Rotativa.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+E:\VS\UniversityManagementSystem\Update 8\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll.config
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\UniversityManagementSystemWebApp.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Owin.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Rotativa.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\WebGrease.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Helpers.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Mvc.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Optimization.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.Razor.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\System.Web.WebPages.Razor.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Newtonsoft.Json.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Antlr3.Runtime.pdb
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\EntityFramework.SqlServer.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.dll
+F:\Memory card file\Programming\DotNet\UniversityManagementSystem\UniversityManagementSystemWebApp\UniversityManagementSystemWebApp\obj\Debug\UniversityManagementSystemWebApp.pdb

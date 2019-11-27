@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "UnallocateClassRoom";
+    string message = ViewBag.Message;
+}
+
+<h2>Unallocate Class Room</h2>
+<div class="button-container">
+    <form method="POST">
+        <input class="btn-block btn-group btn-success" id="submit" type="submit" value="Unallocate Classroom" />
+    </form>
+
+</div>
+@if (message != null)
+{
+
+    <div style="text-align: center; color: green">
+        <h6>@message</h6>
+    </div>
+}
+@section scripts{
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script>
+
+        $(function() {
+            $('#submit').click(function() {
+                var message = confirm('Are you sure to unallocate all classroom?', 'Confirmation');
+                if (message === false) {
+                    return false;
+                }
+                return true;
+            });
+        });
+    </script>
+}
+

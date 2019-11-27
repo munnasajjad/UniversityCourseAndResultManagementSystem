@@ -1,0 +1,153 @@
+﻿@using UniversityManagementSystemWebApp.Models
+@model StudentResult
+@{
+    ViewBag.Title = "Save Student Result";
+    List<Student> studentInfo = ViewBag.StudentInfo;
+    List<Grade> grades = ViewBag.Grades;
+    var isResultExist = ViewBag.IsResultExist;
+    string message = ViewBag.Message;
+    var isCourseEnrolled = ViewBag.IsCourseEnrolled;
+}
+
+<h2>Save Student Result</h2>
+
+<div class="table-container">
+
+    @using (Html.BeginForm())
+    {
+        <table>
+            <tr>
+                <td>@Html.LabelFor(x => x.StudentId)</td>
+                <td>
+                    @Html.DropDownListFor(x => x.StudentId, new SelectList(studentInfo, "Id", "RegistrationNumber"), "---Select registration number---", (new { @class = "table-container" }))
+                    @Html.ValidationMessageFor(x => x.StudentId)
+                </td>
+            </tr>
+            <tr>
+                <td><label for="Name">Name</label></td>
+                <td><input id="Name" name="Name" type="text" readonly="readonly" /></td>
+            </tr>
+
+            <tr>
+                <td><label for="Email">Email</label></td>
+                <td><input id="Email" name="Email" type="text" readonly="readonly" /></td>
+            </tr>
+
+            <tr>
+                <td><label for="Department">Department</label></td>
+                <td><input id="Department" name="Department" type="text" class="Adjust" readonly="readonly" /></td>
+            </tr>
+
+            <tr>
+                <td>@Html.LabelFor(x => x.CourseId)</td>
+                <td>
+                    @Html.DropDownListFor(x => x.CourseId, new SelectList(""), "---Select Course---", new {@class = "table-container"})
+                    @Html.ValidationMessageFor(x => x.CourseId)
+                </td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(x => x.GradeId)</td>
+                <td>
+                    @Html.DropDownListFor(x => x.GradeId, new SelectList(grades, "Id", "Name"), "---Select Course---", new { @class = "table-container" })
+                    @Html.ValidationMessageFor(x => x.GradeId)
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input id="submit" type="submit" value="Save" class="btn-success" /></td>
+            </tr>
+        </table>
+    }
+</div>
+
+@*@if (message.Contains("successfully"))
+    {
+        if (isResultExist)
+        {
+            <div style="text-align: center; color: red">
+                <h6>@message</h6>
+            </div>
+        }
+        else
+        {
+            <div style="text-align: center; color: forestgreen">
+                <h6>@message</h6>
+            </div>
+        }
+    }*@
+@if (message != null)
+{
+    if (message.Contains("successfully"))
+{
+    <div style="text-align: center; color: forestgreen">
+        <h6>@message</h6>
+    </div>
+}
+else
+{
+    <div style="text-align: center; color: red">
+        <h6>@message</h6>
+    </div>
+}
+}
+
+  
+
+        @section scripts{
+            <script src="~/Scripts/jquery.validate.min.js"></script>
+            <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+            <script src="~/Scripts/bootstrap-datepicker.min.js"></script>
+
+            <script>
+                $(function () {
+                    $('#Date').datepicker({
+                        format: "dd/mm/yyyy",
+                        weekStart: 6,
+                        todayBtn: "linked",
+                        daysOfWeekHighlighted: "5",
+                        todayHighlight: true,
+                        orientation: "bottom auto",
+                        autoclose: true
+                    });
+                    $('#StudentId').on('change', function () {
+                        var stuId = $('#StudentId').val();
+                        var json =
+                        {
+                            studentId: stuId
+                        };
+                        $.ajax({
+                            type: "POST",
+                            url: '@Url.Action("GetStudentInfoByStudentId", "Course")',
+                            contentType: 'application/json',
+                            data: JSON.stringify(json),
+                            success: function (response) {
+                                $('#Name').val(response.Name);
+                                $('#Email').val(response.Email);
+                            }
+                        });
+                        $.ajax({
+                            type: "POST",
+                            url: '@Url.Action("GetDepartmentByStudentId", "Course")',
+                            contentType: 'application/json',
+                            data: JSON.stringify(json),
+                            success: function (response) {
+                                $('#Department').val(response.Name);
+                            }
+                        });
+                        $.ajax({
+                            type: "POST",
+                            url: '@Url.Action("GetAllCoursesEnrolledByStudentId", "Student")',
+                            contentType: 'application/json',
+                            data: JSON.stringify(json),
+                            success: function (response) {
+                                $('#CourseId').empty();
+                                $('#CourseId').append('<option value="">---Select course---</option>');
+                                $.each(response, function (key, value) {
+                                    $('#CourseId').append('<option value="' + value.Id + '">' + value.Name + '</option>');
+                                });
+                            }
+                        });
+                    });
+                });
+            </script>
+        }

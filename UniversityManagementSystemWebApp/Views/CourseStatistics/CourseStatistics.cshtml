@@ -1,0 +1,71 @@
+﻿@using UniversityManagementSystemWebApp.Models
+@model CourseStatistics
+@{
+    ViewBag.Title = "Course Statistics";
+    List<Department> departments = ViewBag.Departments;
+}
+@section styles{
+    <link href="~/Content/DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+}
+<h2>View Course Statistics</h2>
+<div class="table-container-data">
+
+    <table id="courseStaticsTable">
+        <tr>
+            <td>@Html.LabelFor(x => x.DepartmentId)</td>
+            <td>@Html.DropDownListFor(x => x.DepartmentId, new SelectList(departments, "Id", "Name"), "---Select a department---", new { @class = "Adjust" })</td>
+            <td>@Html.ValidationMessageFor(x => x.DepartmentId)</td>
+        </tr>
+    </table>
+    <h3>Course Information</h3>
+    <table class="table table-bordered table-responsive table-striped" id="courseStatics">
+        <tr>
+            <th>Code</th>
+            <th>Name/Title</th>
+            <th>Semester</th>
+            <th>Assign to</th>
+        </tr>
+        <tbody id="tableBody"></tbody>
+    </table>
+</div>
+
+@section scripts{
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/DataTables/jquery.dataTables.min.js"></script>
+
+    <script>
+
+        //$(document).ready(function () {
+         
+        //});
+
+        $(function () {
+            $('#DepartmentId').on('change', function () {
+                var deptId = $('#DepartmentId').val();
+                if (deptId == null) {
+                    $('#tableBody').empty();
+                    table.clear();
+                }
+                var json =
+                {
+                    departmentId: deptId
+                };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetCourseStatisticsByDepartmentId", "CourseStatistics")',
+                    contentType: 'application/json',
+                    data: JSON.stringify(json),
+                    success: function (response) {
+                        $('#tableBody').empty();
+                        $.each(response, function (key, value) {
+                            $('#tableBody').append('<tr><td>' + value.Code + '</td><td>' + value.CourseTitle + '</td><td>' + value.Semester + '</td><td>' + value.TeacherName + '</td></tr>');
+                        });
+                    }
+                });
+            });
+
+            $('#courseStatics').DataTable();
+        });
+    </script>
+}

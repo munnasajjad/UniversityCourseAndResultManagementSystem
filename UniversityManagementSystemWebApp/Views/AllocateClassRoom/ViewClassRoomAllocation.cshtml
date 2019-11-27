@@ -1,0 +1,71 @@
+﻿@using UniversityManagementSystemWebApp.Models
+@model AllocateClassRoom
+@{
+    ViewBag.Title = "ViewClassRoomAllocation";
+    List<Department> departments = ViewBag.Departments;
+}
+
+<h2>View Class Schedule and Room Allocation Information</h2>
+
+<div class="table-container-data">
+    <table id="courseStaticsTable">
+        <tr>
+            <td>@Html.LabelFor(x => x.DepartmentId)</td>
+            <td>@Html.DropDownListFor(x => x.DepartmentId, new SelectList(departments, "Id", "Name"), "---Select a department---", new { @class = "Adjust" })</td>
+            <td>@Html.ValidationMessageFor(x => x.DepartmentId)</td>
+        </tr>
+    </table>
+    <table class="table table-bordered table-responsive table-striped" id="courseStatics">
+        <tr>
+            <th>Course Code</th>
+            <th>Name</th>
+            <th>Schedule Info</th>
+        </tr>
+        <tbody id="tableBody"></tbody>
+    </table>
+</div>
+
+@section scripts{
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+    <script>
+        $(function () {
+            $('#DepartmentId').on('change', function () {
+                var deptId = $('#DepartmentId').val();
+                if (deptId == null) {
+                    $('#tableBody').empty();
+                    table.clear();
+                }
+                var json =
+                {
+                    departmentId: deptId
+                };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetAllocateInfoByDepartmentId", "AllocateClassRoom")',
+                    contentType: 'application/json',
+                    data: JSON.stringify(json),
+                    success: function (response) {
+                        $('#tableBody').empty();
+                        //var code = "";
+                        $.each(response, function (key, value) {
+                            //if (value.RoomNumber === 'Not Scheduled Yet') {
+                            //    $('#tableBody').append('<tr><td>' + value.CourseCode + '</td><td>' + value.CourseTitle + '</td><td>' + value.RoomNumber + '</td></tr>');
+                            //    code = value.CourseCode;
+                            //}
+                            //else if (code !== value.CourseCode) {
+                            //    $('#tableBody').append('<tr><td>' + value.CourseCode + '</td><td>' + value.CourseTitle + '</td><td>' + value.RoomNumber + ',' + value.Day + '</td></tr>');
+                            //    code = value.CourseCode;
+                            //}
+                            //else if (code === value.CourseCode) {
+                            //    $('#tableBody').append('<tr><td></td><td></td><td>' + value.RoomNumber + ',' + value.Day + '</td></tr>');
+                            //}
+                            $('#tableBody').append('<tr><td>' + value.Code + '</td><td>' + value.Name + '</td><td>' + value.Schedule + '</td></tr>');
+
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+}

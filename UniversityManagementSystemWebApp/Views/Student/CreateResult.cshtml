@@ -1,0 +1,118 @@
+﻿@using System.ComponentModel
+@using UniversityManagementSystemWebApp.Models
+@model StudentResult
+@{
+    Layout = null;
+    var studentInfo = ViewBag.StudentInfo;
+    var department = ViewBag.Department;
+    var results = ViewBag.Result;
+    var cgpa = ViewBag.CGPA;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CreateResult</title>
+    <link href="~/Content/StyleSheetForResult.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+
+        @if (results != null)
+        {
+            using (Html.BeginForm("ResultSheet", "Student"))
+            {
+                <h5>BGC TRUST UNIVERSITY BANGLADESH</h5>
+                <h6>BGC Bidyanagar, Chandanaish, Chattogram</h6>
+                <hr />
+                <u><h4>Result Sheet</h4></u>
+                <div class="table-container">
+                    <center>
+                        <table>
+                            <tr>
+                                <td><label>Name</label></td>
+                                <td><label>: @studentInfo.Name</label></td>
+                            </tr>
+                            <tr>
+                                <td><label>Reg. No</label></td>
+                                <td><label>: @studentInfo.RegistrationNumber</label></td>
+                            </tr>
+                            <tr>
+                                <td><label for="StudentId" hidden="hidden">StudentId</label></td>
+                                <td><input type="text" id="StudentId" name="StudentId" value="@studentInfo.Id" readonly="readonly" hidden="hidden" /></td>
+
+                            </tr>
+                            <tr>
+                                <td><label>Email</label></td>
+                                <td><label>: @studentInfo.Email</label></td>
+                            </tr>
+                            <tr>
+                                <td><label>Department</label> </td>
+                                <td><label>: @department.Name</label></td>
+                            </tr>
+                            <tr>
+                                <td><label>Medium of Instruction</label> </td>
+                                <td><label>: English</label></td>
+                            </tr>
+                        </table>
+                    </center>
+                </div>
+                <center>
+                    <div class="table-container-data">
+                        <table class="table table-striped table-condensed table-bordered   table-responsive table-hover">
+                            <thead>
+                            <tr>
+                                <th rowspan="2"><label>SL. No</label></th>
+                                <th colspan="2"><label>Course</label></th>
+                                <th rowspan="2"><label>Latter Grade</label></th>
+                                <th rowspan="2"><label>Grade Point</label></th>
+                            </tr>
+                            <tr>
+                                <th><label>Title</label></th>
+                                <th><label>Code</label></th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                                @{ int rowNo = 0; }
+                           @foreach (var result in results)
+                            {
+                                <tr>
+                                    <td><label>@(rowNo += 1)</label></td>
+                                    <td><label>@result.CourseTitle</label></td>
+                                    <td><label>@result.CourseCode</label></td>
+                                    <td><label>@result.GradeLatter</label></td>
+                                    <td><label>@result.GradePoint</label></td>
+                                </tr>
+                            }
+
+                            </tbody>
+                        </table>
+                    </div>
+                </center>
+                <div>
+                    <table class="table-borderedNew">
+                        <tr>
+                            <th><label>Result</label></th>
+                            <th><label>Grade Point Average: @cgpa</label></th>
+                        </tr>
+                    </table>
+                </div>
+
+                <div class="footer">
+                    <label>Date: @DateTime.Now</label><br />
+                    @*<input id="submit" type="submit" value="PDF" class="" />*@
+                </div>
+            }
+
+        }
+        else
+        {
+            <div style="color: red; text-align: center;">
+                <label style="color: red">@ViewBag.Message</label>
+            </div>
+        }
+    </div>
+</body>
+</html>
